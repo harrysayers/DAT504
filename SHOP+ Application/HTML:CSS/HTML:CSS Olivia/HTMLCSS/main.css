@@ -1,0 +1,108 @@
+h1{
+    text-align: center;
+    color: White;
+    font-size: 30px;
+    font-family: 'Convergence', sans-serif;
+}
+h3{
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    font-family: 'Convergence', sans-serif;
+}
+h4{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: font-family: 'Amaranth', sans-serif;
+    margin-bottom: 103px;
+}
+h2{
+    text-align: left;
+    color: white;
+    font-size: 50px;
+    font-family: 'Convergence', sans-serif;
+    margin-top: 10px;
+}
+.lcontainer{
+    position: center;
+    text-align: center;
+    border-radius: 25px 25px 25px 25px;
+    margin: 0 auto;
+}
+.scontainer{
+   position: center;
+    text-align: center;
+    border-radius: 25px 25px 25px 25px;
+    margin: 0 auto; 
+}
+input[type="text"], input[type="password"]{
+    height: 45px;
+    width: 300px;
+    font-size: 18px;
+    margin bottom; 50px;
+    margin-top: 15px;
+    background-color: white;
+    padding-left: 20px;
+}
+.form-input: before {
+    position: absolute;
+    font-family: 'Convergence', sans-serif;
+    font-size: 30px;
+    color: black;
+    padding-top: 30px;
+    font-size: 35px;
+    border-spacing: 10px 50px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Convergence', sans-serif;
+}
+a:hover{
+    color: black;
+    opacity: 0.8;
+    font-weight: bold;
+}
+.btn-login {
+    padding: 15px 30px;
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 6px;
+    border-bottom: 4px solid white;
+}
+.btn-signup{
+    padding: 15px 30px;
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 6px;
+    border-bottom: 4px solid white;
+    margin-top: 10px;
+}
+.profile{
+    max-width: 300px;
+    margin: auto;
+}
+.controls{
+    position: center;
+    text-align: center;
+    border-radius: 25px 25px 25px 25px;
+    margin: 0 auto; 
+    height: 45px;
+    width: 300px;
+    font-size: 18px;
+    margin bottom; 50px;
+    margin-top: 15px;
+    padding-left: 20px;
+}
+.btn-reset{
+    padding: 15px 30px;
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 6px;
+    border-bottom: 4px solid white;
+    margin-top: 10px;
+}
